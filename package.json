@@ -1,6 +1,6 @@
 {
   "name": "@4lch4/dhall-reader",
-  "version": "1.0.0-rc4",
+  "version": "1.0.0",
   "description": "This package serves the purpose of reading `.dhall` files and returning the result as a JSON object.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
