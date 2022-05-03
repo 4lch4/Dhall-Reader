@@ -3,6 +3,7 @@
   "version": "1.0.0-rc2",
   "description": "This package serves the purpose of reading `.dhall` files and returning the result as a JSON object.",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "type": "module",
   "scripts": {
     "build": "tsc",
